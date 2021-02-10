@@ -1,5 +1,3 @@
-![photo](https://domcamps.com/assets/dom.jpeg)
----
 ## [Curriculum Vitae](https://domcamps.com/assets/cv.pdf)
 ---
 ## [Publications](https://domcamps.com/#)
