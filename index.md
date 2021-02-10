@@ -7,4 +7,7 @@
 - Architecture Concordia Journal, Montreal, April 2017
 
 ---
-## [ArcGIS Online](https://domcamps.com/arcgis/)
+## ArcGIS Online
+
+- [Manitoba Map 1](https://domcamps.com/arcgis/map1)
+- [Manitoba Map 2](https://domcamps.com/arcgis/map2)
