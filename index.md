@@ -1,4 +1,4 @@
-## [Curriculum Vitae](https://domcamps.com/assets/cv/pdf)
+## [Curriculum Vitae](https://domcamps.com/assets/cv.pdf)
 ---
 ## [Publications](https://domcamps.com/#)
 ---
