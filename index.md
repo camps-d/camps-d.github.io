@@ -1,9 +1,10 @@
 ## [Curriculum Vitae](https://domcamps.com/assets/cv.pdf)
 ---
 ## Profile
+Emerging planner with a background in research and communications. Detail-oriented, analytical, and a compassionate collaborator. Passionate about building equitable and resilient communities through inclusive and context-specific planning approaches.
 
-- Emerging planner with a background in research and communications. Detail-oriented, analytical, and a compassionate collaborator. Passionate about building equitable and resilient communities through inclusive and context-specific planning approaches.
 ---
+
 ## Publications
 
 - Open North. (2022) [Open smart communities in practice: how communities across Canada are reaching their goals and overcoming challenges using data and technology](https://opennorth.ca/wp-content/uploads/2022/04/Report-Open-Smart-Communities-in-Practice.pdf).
